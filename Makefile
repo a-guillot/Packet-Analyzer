@@ -1,7 +1,7 @@
 DEBUG = YES
 CC = gcc
 
-CFLAGS = -W -Wall -Wextra -Werror
+CFLAGS = -W
 LFLAGS = -lpcap
 
 EXEC = bin/program
