@@ -9,3 +9,13 @@ Running `bin/program --help` details the options, but a first test that can be e
 `make`
 
 `bin/program -o test/http.cap`
+
+## Example
+
+Example output for HTTP file.
+
+All of the fields from the packets are described hierarchichally.
+
+![Example figure](example.png)
+
+Outputs are in French per school requirements.
